@@ -1,4 +1,4 @@
-# Shibby Token
+# BabyKraken Token $KRAKBABY
 
 Codebase has been forked from RISE https://www.everrisecoin.com/
 
