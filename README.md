@@ -11,9 +11,9 @@ Only minor adjustements have been made. Feel free to check the differences betwe
 
 
 # Total Supply Distribution:
-53.68 % Sold in presale
-40.25 % Locked Liquidity until 2099
-5.00 % Team, locked 2-6 months
-1.07 % dxsale fee
+- 53.68 % Sold in presale
+- 40.25 % Locked Liquidity until 2099
+- 5.00 % Team, locked 2-6 months
+- 1.07 % dxsale fee
 
 
